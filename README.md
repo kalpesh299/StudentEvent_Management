@@ -19,23 +19,23 @@
   
 #Service
 
->Studentservice
+>Studentservice-
  printallstudents(Business logic to print all students)
  update_student(Updating student with the help of name)
  deleteStudent(deleting student with the help of its id)
 findbyId(Fiding student by its id)
 
->Eventservice
+>Eventservice-
 printallEvents(Printing all events)
 addEvent(adding event)
 updateEvent(updating event with help of its name)
 deleteby_name(dleting event with help of its name)
 findbyDate(Filtering all the events by its name)
 
->Database
+>Database-
 Not used any database(Temparay used arrayist to store object)
 
->Data structure
+>Data structure-
 Dynamic datastructure
 
 
